@@ -46,7 +46,7 @@ The dataset contains the following features:
 - **average_framerate**
 - **min_framerate**
 - **max_framerate**
-- **smoothed_frame_rate_variation**
+- **frame_rate_variation**
 
 ### Target Variables:
 - **SSIM**
